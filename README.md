@@ -43,5 +43,5 @@ For a comprehensive understanding of our project, please refer to the `mmlung.ip
 Thank you for your interest in MMLung! 
 
 ## License
-
+Copyright (c) 2022, University of Southampton All rights reserved.
 Check the [License](License) file for details.

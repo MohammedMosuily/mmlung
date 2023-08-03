@@ -44,4 +44,4 @@ Thank you for your interest in MMLung!
 
 ## License
 
-This project is licensed under the terms of the Educational Use License. See the [LICENSE](LICENSE) file for details.
+Check the [LICENSE](LICENSE) file for details.

@@ -44,4 +44,4 @@ Thank you for your interest in MMLung!
 
 ## License
 
-Check the [LICENSE](LICENSE) file for details.
+Check the [License](License) file for details.

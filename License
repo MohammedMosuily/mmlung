@@ -1,16 +1,18 @@
-Educational Use License
+# License
 
-Copyright (c) [2022] [Mohammed Mosuily]
+Copyright (c) 2022, University of Southampton
+All rights reserved.
 
-Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), for the purpose of education and teaching, subject to the following conditions:
+The `mmlung.ipynb` notebook may be freely distributed and modified, but the following conditions must be met:
 
-1. The software may not be used for commercial purposes.
-2. This notice and acknowledgment of this license must be included in all copies or substantial portions of the Software.
+1. Any distribution of the original code must retain the copyright notice, conditions list, and the disclaimer provided here.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+2. Any distribution in binary form must include the copyright notice, conditions list, and the disclaimer in any provided documentation or other materials.
+
+3. Any advertisements or publications that use results from this software must give credit to the University of Southampton.
+
+4. The name of the University of Southampton or any contributors to this project cannot be used to endorse or promote products derived from this software without written permission.
+
+5. This software is intended for use in research, education, or evaluation only. A commercial license, free of charge, can be requested by emailing mtm1g19@soton.ac.uk.
+
+The University of Southampton provides this software "as is", without any warranty of any kind. The University of Southampton will not be held responsible for any damage or loss caused by the use of this software, even if they have been advised of potential damage or loss.
